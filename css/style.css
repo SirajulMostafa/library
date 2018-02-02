@@ -1,0 +1,49 @@
+body{
+	margin:0px;
+	background:#fff;
+}
+hr{
+	background:#fff;
+	height:1px;
+	border:0 none;
+	width:90%;
+	margin-bottom:3px;
+}
+.col-head-cus{
+	background:#a42347; 
+	color:#fff;
+}
+.col-footer-custom{
+	background:#a42347; 
+	color:#fff;
+	height:74px;
+}
+.footer-custom{
+	margin-left:62px;
+	font-family:Tahoma,Verdana,Arial,Helvetica,sans-serif;
+	font-size:12px;
+}
+.col-body-custom{
+	min-height:700px; 
+	margin-top:17px;
+	margin-bottom:17px;
+}
+.col-body-2-custom{
+	margin-top:120px;
+}
+.col-body-3-custom{
+	font-family: -moz-fixed;
+    font-size: 20px;
+    text-align: right;
+}
+
+.panel-heading-custom{
+    color: red;
+    font-family: monospace;
+    font-size: 17px;
+	}
+.self-custom{
+	background-image: url(/library/images/book.jpg);
+	width:500px;
+	height:275px;
+}
